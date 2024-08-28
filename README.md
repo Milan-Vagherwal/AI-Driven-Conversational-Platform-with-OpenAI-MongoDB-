@@ -1,1 +1,1 @@
-# E-commerce-project-using-MERN
+# AI-Driven Conversational Platform with OpenAI & MongoDB 
